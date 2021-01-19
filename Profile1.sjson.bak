@@ -3,11 +3,10 @@
   EasyMode = true
   UseMouse = true
   NewUpdateSoundRevisionViewed = 37123
-  BackupSaveCount = 3
+  BackupSaveCount = 4
   LastRoadmapRevisionViewed = 37123
   UseAnalytics = false
-  NoBorder = true
-  DisplayIndex = 0
+  DisplayIndex = 1
   ShowGameplayTimer = true
   ValidCheckpoint = false
   LastPatchNoteRevisionViewed = 37123
